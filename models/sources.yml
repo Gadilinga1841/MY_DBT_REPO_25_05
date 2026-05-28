@@ -1,0 +1,20 @@
+       sources:
+         - name: my_dev_sc
+           database: edw_dev_db
+           schema: edw_dev_sc
+           tables:
+             - name: edw_customer_clustering
+             - name: edw_customer_noclustering
+             - name: emp
+             - name: linga_text
+             - name: linga_text1
+             - name: linga_text1_var
+             - name: linga_text2_var
+             - name: loan_payment
+             - name: my_model4
+             - name: my_model5
+             - name: my_second_model
+             - name: my_snap
+             - name: my_text
+             - name: raw_linga
+             - name: xml_linga

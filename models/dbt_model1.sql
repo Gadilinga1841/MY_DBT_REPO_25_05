@@ -1,0 +1,1 @@
+select {{ codegen.generate_source('edw_dev_db1','edw_dev_sc1') }}
