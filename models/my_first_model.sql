@@ -1,0 +1,1 @@
+select * from {{ source('cbs_source', 'emp_linga') }}
